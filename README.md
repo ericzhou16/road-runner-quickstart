@@ -1,4 +1,2 @@
 # Road Runner Quickstart
-
-Check out the [docs](https://rr.brott.dev/docs/v1-0/tuning/).
-
+Fork of Quickstart repository for RoadRunner path planning algorithm used in FIRST Technology Challenge to learn from.
